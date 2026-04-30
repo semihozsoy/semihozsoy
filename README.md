@@ -2,11 +2,20 @@
 <h3 align="center">A passionate iOS developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/semihozsy" target="_blank">
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://linkedin.com/in/semihozsy" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="semihozsy" height="30" width="40" />
   </a>
-</p>
+      </td>
+       <td align="center">
+    <a href="https://medium.com/@semih-ozsoy" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="semihozsy" height="30" width="40" />
+  </a>
+    </td>
+      </tr>
+    </table>
 
 <h3 align="left">Languages and Tools:</h3>
 
